@@ -1,0 +1,26 @@
+#tabla{
+    background-color: pink;
+    width: 700px;
+    border:2px solid rgb(207, 29, 58);
+    font-size: 25px;
+    margin: 25px auto;
+    border-collapse: collapse;
+}
+img{
+    width: 90px;
+    
+}
+.imagen{
+  display: flex;
+  justify-content: center;
+
+}
+
+td{
+    text-align: center;
+     border:1px solid rgb(187, 75, 93);
+      font-family: 'Times New Roman', Times, serif;
+}
+th{
+    font-family:'Times New Roman', Times, serif
+}

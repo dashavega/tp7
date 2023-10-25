@@ -1,0 +1,121 @@
+#tabla {
+    background-color: rgb(255, 255, 255);
+    width: 900px;
+    border: 2px solid rgb(24, 26, 41);
+    font-size: 25px;
+    margin: 0px auto;
+    border-collapse: collapse;
+    border-collapse: collapse;
+color: #131010;
+font-size: 25px;
+}
+
+img {
+    width: 55px;
+
+}
+
+.imagen {
+    display: flex;
+    justify-content: center;
+    
+    padding: 10px;
+
+
+
+}
+
+td {
+    text-align: center;
+    border-bottom: 1px solid rgb(190, 188, 188);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+th {
+    text-transform: uppercase;
+    background-color: #2e2c2c;
+   
+    
+    
+
+}
+thead{
+    color: #a7a0a0;
+font-size: 25px;
+background-color: rgb8(24, 26, 41);
+}
+.lineas{
+    background-color: #c2bfbf;
+
+}
+.arriba{
+    background-color: #a7a0a0;
+}
+.piloto{
+    font-family: 'Gotham-Bold';
+color: #444444;
+font-size: 20px;
+line-height: 27px;
+text-transform: uppercase;
+box-sizing: border-box;
+}
+.vueltas{
+    font-family: 'Gotham-Bold';
+color: #444444;
+font-size: 20px;
+line-height: 27px;
+text-transform: uppercase;
+box-sizing: border-box;
+
+}
+.tiempo{
+    font-family: 'Gotham-Bold';
+color: #444444;
+font-size: 20px;
+line-height: 27px;
+text-transform: uppercase;
+box-sizing: border-box;
+
+}
+.diferencia{
+
+    font-family: 'Gotham-Bold';
+color: #444444;
+font-size: 20px;
+line-height: 27px;
+text-transform: uppercase;
+box-sizing: border-box;
+
+}
+.cab{
+    width: 900px;
+    border: 2px solid rgb(24, 26, 41);
+    font-size: 25px;
+    margin: 0px auto;
+    border-collapse: collapse;
+    border-collapse: collapse;
+  display: flex;
+  justify-content: center;
+}
+.pie{
+    background-color: #a7a0a0;
+    text-align: center;
+    width: 0px  auto;
+    display: flex;
+    justify-content: center;
+   
+}
+footer{
+    justify-content: center;
+    flex-direction: column;
+    align-items: end;
+    background-color: #606266;
+    height: 250px;
+    color: white;
+    font-size: 2.3em;
+    text-transform: uppercase;
+    padding: 10px;
+    color: white;
+    font-size: 2.3em;
+    text-transform: uppercase;
+    }  
